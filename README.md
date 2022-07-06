@@ -21,7 +21,7 @@ Here are some ideas to get you started:
     📫 How to reach me: <a href="mailto:juancastorena18@gmail.com">@JuanCastorena</a>
 </div>
 
-br/>
+<br/>
 ### - Languajes and tools...
 <p align="center">
  <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="Twitter" style="vertical-align:top; margin:4px; width:4px; height:4px"></img>
