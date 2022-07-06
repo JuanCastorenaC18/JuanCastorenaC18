@@ -47,3 +47,7 @@ Here are some ideas to get you started:
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=JuanCastorenaC18&label=Profile%20Views&color=11&pretty=true" />
 </a>
+
+## Watch my contributions get eaten by a snake 🐍
+![snake gif](https://github.com/tanyarajhans/Actions/blob/output/github-contribution-grid-snake.svg)
+
