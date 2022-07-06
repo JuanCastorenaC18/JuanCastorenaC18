@@ -38,9 +38,3 @@ Here are some ideas to get you started:
  <code><a href="https://angular.io" target="_blank"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png"></a></code>
  <code><a href="https://developer.android.com/docs" target="_blank"><img height="50" src="https://1000marcas.net/wp-content/uploads/2020/01/Logo-Android.png"></a></code>
 </p>
-
-<p align="center">
-
-[<img src="https://spotify-now-playing.satyu.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="1500" style="float: right; margin-right: 10px;" />](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X)
-
-</p>
