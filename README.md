@@ -42,10 +42,7 @@ Here are some ideas to get you started:
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=JuanCastorenaC18&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
----
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=JuanCastorenaC18&label=Visitas%20al%20perfil&icon=5&pretty=false" />
-</a>
+[![](https://visitcount.itsvg.in/api?id=JuanCastorenaC18&label=Visitas%20al%20perfil&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 ## Watch my contributions get eaten by a snake 🐍
 ![snake gif](https://github.com/tanyarajhans/Actions/blob/output/github-contribution-grid-snake.svg)
