@@ -41,6 +41,6 @@ Here are some ideas to get you started:
 
 <p align="center">
 
-[<img src="https://spotify-now-playing.satyu.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="1500" style="float: right; margin-right: 10px;" />](https://open.spotify.com/user/djehel041cfyz8fyrsqpnoftn)
+[<img src="https://spotify-now-playing.satyu.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="1500" style="float: right; margin-right: 10px;" />](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X)
 
 </p>
