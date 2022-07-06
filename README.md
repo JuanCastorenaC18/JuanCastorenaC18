@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 </p>
 
 ## 🏆GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=JuanCastorenaC18&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=JuanCastorenaC18&theme=radical&no-frame=false&no-bg=false&margin-w=4&border_color=67D242)
 
 [![](https://visitcount.itsvg.in/api?id=JuanCastorenaC18&label=Visitas%20al%20perfil&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
