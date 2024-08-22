@@ -1,3 +1,4 @@
+[![MC Technology](src/mctechnology_extendido.GIF)](https://www.youtube.com/c/mctechnology17)
 <h1 align="center">Hey 👋🏽, I'm Juan</h1>
 
 <!--
