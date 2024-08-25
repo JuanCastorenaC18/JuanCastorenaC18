@@ -45,5 +45,5 @@
 <br>
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/galina-mykolaychuk/count.svg?" />
+  <img src="https://profile-counter.glitch.me/JuanCastorenaC18/count.svg?" />
 </div>
