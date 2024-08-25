@@ -41,4 +41,9 @@
 [![](https://visitcount.itsvg.in/api?id=JuanCastorenaC18&label=Visitas%20al%20perfil&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 ## Watch my contributions get eaten by a snake 🐍
-![snake gif](https://github.com/tanyarajhans/Actions/blob/output/github-contribution-grid-snake.svg)
+<img src="./snake.svg" alt="Snake animation" /><br>
+<br>
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/galina-mykolaychuk/count.svg?" />
+</div>
