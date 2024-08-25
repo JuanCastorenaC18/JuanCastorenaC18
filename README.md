@@ -1,10 +1,11 @@
 [![MC Technology](src/mctechnology_extendido.GIF)](https://www.youtube.com/c/mctechnology17)
-[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
 
 <h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Juan Castorena <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40" alt="Giphy"></h1>
 <div align="center" style="display: flex; align-items: center;">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&duration=2500&pause=1000&vCenter=true&width=435&lines=Full+Stack+Developer+from+Mexico" alt="Typing SVG" style="margin-right: 10px;">
 </div>
+
+[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanCastorenaC18&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanCastorenaC18&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
