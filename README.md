@@ -47,3 +47,5 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/JuanCastorenaC18/count.svg?" />
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4d0674&height=120&section=footer" />
