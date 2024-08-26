@@ -18,8 +18,8 @@
 <table>
   <tr>
     <td colspan="3" align="center">
-      <a href="mailto:girasedipraj52@gmail.com" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigmail&subtitle=girasedipraj52@gmail.com&size=square" alt="DiprajGirase" style=height="125px" width="125px" "margin: 10px;">
+      <a href="mailto:juancruzcastorena12@gmail.com" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigmail&subtitle=juancruzcastorena12@gmail.com&size=square" alt="DiprajGirase" style=height="125px" width="125px" "margin: 10px;">
       </a>
     </td>
     <td align="center">
