@@ -27,21 +27,6 @@
         <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkenan-gain-33048518a%2F&subtitle=@diprajgirase&size=square" alt="DiprajGirase" style=height="125px" width="125px" "margin: 10px;">
       </a>
     </td>
-    <td align="center">
-      <a href="https://x.com/dipraj52" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fx.com%2Fgain_kenan&subtitle=@dipraj52&size=square" alt="DiprajGirase" style=height="125px" width="125px" "margin: 10px;">
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.instagram.com/dipraj_rajput._/" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2Fknightgamer87%2F&subtitle=@dipraj_rajput._&size=square" alt="DiprajGirase" style=height="125px" width="125px" "margin: 10px;">
-      </a>
-    </td>
-    <td align="center">
-     <a href="https://discord.gg/diprajgirase" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fdiscord.gg%2FYdDyV6QqEN&subtitle=Dipraj+Girase&size=square" alt="DiprajGirase" style=height="125px" width="125px" "margin: 10px;">
-      </a>
-    </td>
       </tr>
 </table>
 
