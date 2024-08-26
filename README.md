@@ -6,10 +6,6 @@
 </div>
 
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanCastorenaC18&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanCastorenaC18&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 <br>
 
 ### Lenguajes y tecnologias
@@ -98,6 +94,9 @@
 <div align="center">
     📫 How to reach me: <a href="mailto:juancastorena18@gmail.com">@JuanCastorena</a>
 </div>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanCastorenaC18&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanCastorenaC18&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologías:
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()
