@@ -10,6 +10,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanCastorenaC18&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanCastorenaC18&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+<br>
+
 <div align="center">
     📫 How to reach me: <a href="mailto:juancastorena18@gmail.com">@JuanCastorena</a>
 </div>
