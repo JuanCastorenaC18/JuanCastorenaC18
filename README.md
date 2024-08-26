@@ -8,6 +8,43 @@
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
 <br>
 
+<p align="center">
+  <h2>📫 Find Me On!</h2>
+</p>
+<p>Let's code, connect, and create awesome things together!
+ </p>
+
+<div>
+<table>
+  <tr>
+    <td colspan="3" align="center">
+      <a href="mailto:girasedipraj52@gmail.com" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigmail&subtitle=girasedipraj52@gmail.com&size=square" alt="DiprajGirase" style=height="125px" width="125px" "margin: 10px;">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/diprajgirase" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkenan-gain-33048518a%2F&subtitle=@diprajgirase&size=square" alt="DiprajGirase" style=height="125px" width="125px" "margin: 10px;">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://x.com/dipraj52" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fx.com%2Fgain_kenan&subtitle=@dipraj52&size=square" alt="DiprajGirase" style=height="125px" width="125px" "margin: 10px;">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.instagram.com/dipraj_rajput._/" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2Fknightgamer87%2F&subtitle=@dipraj_rajput._&size=square" alt="DiprajGirase" style=height="125px" width="125px" "margin: 10px;">
+      </a>
+    </td>
+    <td align="center">
+     <a href="https://discord.gg/diprajgirase" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fdiscord.gg%2FYdDyV6QqEN&subtitle=Dipraj+Girase&size=square" alt="DiprajGirase" style=height="125px" width="125px" "margin: 10px;">
+      </a>
+    </td>
+      </tr>
+</table>
+
 ### Lenguajes y tecnologias
 
 <table style="border: 0px solid #ddd; padding: 10px; margin-bottom: 10px; width: 100%;">
