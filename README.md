@@ -23,8 +23,8 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://www.linkedin.com/in/diprajgirase" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkenan-gain-33048518a%2F&subtitle=@diprajgirase&size=square" alt="DiprajGirase" style=height="125px" width="125px" "margin: 10px;">
+      <a href="https://www.linkedin.com/in/juan-castorena-4978a029b" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkenan-gain-33048518a%2F&subtitle=@JuanCastorena&size=square" alt="DiprajGirase" style=height="125px" width="125px" "margin: 10px;">
       </a>
     </td>
       </tr>
