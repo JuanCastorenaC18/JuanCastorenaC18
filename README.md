@@ -35,9 +35,7 @@
     <td style="width: 50%; vertical-align: top;">
       <h4 align="left">FRONTEND</h4>
       <p align="left">
-        <td align="center" width="96">
-          <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" /><br>TS
-        </td>
+        <a target="_blank" rel="noreferrer"><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />        </a>
         <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
         <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
         <a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a>
