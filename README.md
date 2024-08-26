@@ -15,20 +15,22 @@
  </p>
 
 <div>
-<table>
+
+<table style="width: 100%;">
   <tr>
-    <td colspan="3" align="center">
+    <td colspan="3" style="text-align: center; vertical-align: middle;">
       <a href="mailto:juancruzcastorena12@gmail.com" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigmail&subtitle=juancruzcastorena12@gmail.com&size=square" alt="DiprajGirase" style=height="125px" width="125px" "margin: 10px;">
+        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigmail&subtitle=juancruzcastorena12@gmail.com&size=square" alt="DiprajGirase" style="height: 125px; width: 125px; margin: 10px;">
       </a>
     </td>
-    <td align="center">
+    <td style="text-align: center; vertical-align: middle;">
       <a href="https://www.linkedin.com/in/juan-castorena-4978a029b" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkenan-gain-33048518a%2F&subtitle=@JuanCastorena&size=square" alt="DiprajGirase" style=height="125px" width="125px" "margin: 10px;">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkenan-gain-33048518a%2F&subtitle=@JuanCastorena&size=square" alt="DiprajGirase" style="height: 125px; width: 125px; margin: 10px;">
       </a>
     </td>
-      </tr>
+  </tr>
 </table>
+
 
 ### Lenguajes y tecnologias
 
